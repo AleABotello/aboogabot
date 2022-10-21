@@ -8,5 +8,5 @@ ANALISIS DE REQUISITOS Y REQUERIMIENTOS
 ![](Untitled%20(2).jpg)
 
 
-Diagrama de toma de requerimientos y Wireframe
+Wireframe
 https://miro.com/app/live-embed/uXjVPNoOnSo=/?moveToViewport=-3577,-828,8436,4141&embedId=504299681896
